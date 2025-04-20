@@ -16,7 +16,7 @@ Welcome to the **Bengaluru House Price Prediction App** — a machine learning-b
 
 ## 🚀 Demo
 
-### 👉 [Live Demo](#) (https://aryansachan12-bengaluru-house-price-app-vb5xnh.streamlit.app/)
+### 👉 [Live Demo](https://aryansachan12-bengaluru-house-price-app-vb5xnh.streamlit.app/)
 
 ---
 
